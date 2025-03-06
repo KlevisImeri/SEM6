@@ -22,6 +22,7 @@
     - `Reject/Manage` button: Grayed-out, hidden behind multiple steps, or requiring manual deselection of dozens of toggles.
 
 ***Refences:***
+- The Decision Lab. (n.d.). Choice Overload Bias. The Decision Lab. Retrieved March 6, 2025, from https://thedecisionlab.com/biases/choice-overload-bias
 - Chernev, A., Böckenholt, U., & Goodman, J. K. (2015). Choice overload: A conceptual review and meta-analysis. Journal of Consumer Psychology, 25(2), 333–358. https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf
 - Commission Nationale de l'Informatique et des Libertés (CNIL). (n.d.). Closure of the injunction issued against Google. https://www.cnil.fr/en/closure-injunction-issued-against-google
 - Habib, H., Li, M., Young, E., & Cranor, L. (2022). "Okay, whatever": An evaluation of cookie consent interfaces. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), Article 357. https://doi.org/10.1145/3491102.3501985
