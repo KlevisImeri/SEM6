@@ -1,0 +1,44 @@
+ASR topics in Speech Information Systems
+
+Audio Feature Extraction:
+Short-time Fourier Transform
+Spectrum
+Spectrogram
+Mel-Spectrum
+Log Mel-Spectrum
+Mel filter-bank
+Discrete Cosine Transform
+Prinicipal Component Analysis
+Mel-Frequency Cepstral Coefficients
+
+Pattern matching for Isolated Word Speech Recognition:
+Dynamic Time Warping
+Dynamic Programming
+Pruning
+
+Phoneme-based Speech Recognition:
+Phone/phoneme models
+Emission/Observation Probability density function for similarity metric
+Multivariate Gaussian distribution
+Gaussian Mixture Models
+K-Means for training GMM
+Hidden Markov Models
+Maximum Likelihood modeling
+Viterbi algorithm for decoding
+Beam-search, pruning
+MAP equation of ASR (based on Bayes theorem)
+Language Model
+N-gram models
+2-gram integration into HMM
+
+End-to-end (neural network) ASR:
+Deep neural network for acoustic modeling (similarity calculation)
+Connectionist Temporal Classification
+Blank token
+
+For the details, ask e.g. ChatGPT.
+
+Lab exercise: 
+https://colab.research.google.com/drive/1NtCDNNwui2tyEHyjrsn_fVskx8-TZn3X?usp=sharing
+
+
