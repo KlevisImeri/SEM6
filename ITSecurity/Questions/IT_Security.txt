@@ -1,0 +1,35 @@
+1. Blind SQL injection is when the attacker is only capable of randomly modifying the SQL query.
+
+2. Interdependent privacy risks for a given user emerge owing to negative externalities of data sharing with third parties.
+
+3. Stuxnet is a malware.
+
+4. ASLR can provide protection against ROP attack.
+
+5. Information security is risk management. Assuming that attackers are becoming more skilled over time and other factors affecting the risk of an attack stay the same, the likelihood of the attack increases, hence the risk increases.
+
+6. The design principle "complete mediation" say check every access to every object every time access is requested.
+
+7. The attacks that is not relevant for key exchange protocols is Replay of protocol messages.
+
+8. The risks that is not relevant for IT security is Random hardware failures.
+
+9. K-anonymity means the quasi-identifiers if an individual match at least k, or 0 records in the anonymized dataset.
+
+10. The property that make JavaScript dangerous is every variable in the global scope.
+
+11. Shell code is an attacker input that aims at opening a shell.
+
+12. Use-after-free is not among the most common attacks against browsers.
+
+13. Properties of cyber criminal group are advanced technical skills, variable information gathering capabilities, rich resources.
+
+
+
+
+
+
+
+
+
+
